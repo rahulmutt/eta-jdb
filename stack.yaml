@@ -1,0 +1,8 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- process-1.6.1.0
+- transformers-0.5.4.0
+resolver: lts-6.27
